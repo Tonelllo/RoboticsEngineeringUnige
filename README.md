@@ -1,18 +1,24 @@
 # RoboticsEngineeringUnige
 Repository of student material for the robotics engineering course at university of Genova.
-# How can I download only one folder and not the whole repo?
-For now beeing private this repo does not allow to use:
+## How can I download only one folder and not the whole repo?
+The following site is exactly for that 
 [https://download-directory.github.io/]
-
-wich is a tool to do exactly that. In case someone knows a method please modify this README
-# Important Deadlines
+## Important Deadlines
 - 15/10 Deadline for compiling your study plan
-# Contributing Guidelines
+## Contributing Guidelines
 Hoping that many people will add their notes and material in general I suggest to name folders of labs
 as: ```Lab[number]-[your name]``` and to put your notes in a folder named ```Notes-[your initials]```. Please also 
 add to your notes, inside the folder, your name in some way both to be acknowledged and help those who will 
 download your notes to not have duplicated notes name.
-## Table of Contents
+## Rules
+Slides or any other study material given by professors will _not_ be accepted in this repo. Slides with notes on them
+will _not_ be accepted either. Latex or equivalent documents that have partial slide screenshot embedded in them are ok.
+
+*NOTE*
+The solution to this problem would be to make the repo private so that only people that are added can access it, but
+making the repo private brings it's own set of problems. First of all you would not be able to use the tool to download
+only one file inside the repo.
+# Table of Contents
 - [RoboticsEngineeringUnige](#roboticsengineeringunige)
   * [Telegram groups](#telegram-groups)
     + [2023/2024](#2023-2024)
