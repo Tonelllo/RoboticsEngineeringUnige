@@ -1,4 +1,4 @@
-# Lessons register 2023/2024
+# Lessons report 2023/2024
 
 ## 04/10/23
 - Tseitin's encoding

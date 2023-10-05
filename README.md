@@ -1,7 +1,18 @@
 # RoboticsEngineeringUnige
-Repository of student material for the robotics engineering course at university of Genova
+Repository of student material for the robotics engineering course at university of Genova.
+# How can I download only one folder and not the whole repo?
+For now beeing private this repo does not allow to use:
+```
+https://download-directory.github.io/
+```
+wich is a tool to do exactly that. In case someone knows a method please modify this README
 # Important Deadlines
 - 15/10 Deadline for compiling your study plan
+# Contributing Guidelines
+Hoping that many people will add their notes and material in general I suggest to name folders of labs
+as: ```Lab[number]-[your name]``` and to put your notes in a folder named ```Notes-[your initials]```. And than 
+add to your notes inside the folder your name in some way both to be acknowledged and help those who will 
+download your notes to not have duplicated notes name.
 ## Table of Contents
 - [RoboticsEngineeringUnige](#roboticsengineeringunige)
   * [Telegram groups](#telegram-groups)
