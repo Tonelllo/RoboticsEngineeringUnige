@@ -1,4 +1,4 @@
-# Lessons report
+# Lessons report 2023/2024
 
 ## 2/10/23
 - Structure of a Rotation Matrix

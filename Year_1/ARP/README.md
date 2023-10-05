@@ -1,4 +1,6 @@
-# Registro lezioni per ARP
+# Assigment Solutions
+All the assigments solutions are uploaded in aulaweb in the section: "Shared solutions to proposed exercises and forum"
+# Lessons report 2023/2024
 
 ## 03/10/23
 - Second slide about linux and windows architectures

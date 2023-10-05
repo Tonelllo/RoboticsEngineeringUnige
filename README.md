@@ -1,5 +1,7 @@
 # RoboticsEngineeringUnige
 Repository of student material for the robotics engineering course at university of Genova
+# Important Deadlines
+- 15/10 Deadline for compiling your study plan
 ## Table of Contents
 - [RoboticsEngineeringUnige](#roboticsengineeringunige)
   * [Telegram groups](#telegram-groups)

@@ -1,4 +1,6 @@
-# Lessons report
+# Important Deadlines
+- 18/10 Deadline for uploading the second lab
+# Lessons report 2023/2024
 
 ## 04/03/23
 - Edge detection
