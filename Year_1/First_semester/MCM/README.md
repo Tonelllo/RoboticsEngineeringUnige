@@ -1,6 +1,32 @@
 # Lessons report 2023/2024
-
-## 2/10/23
+## 16/09
+- Physics of a manipulator
+- Degrees of freedom
+- Different vectors to represent state of the robot
+- Dynamics of the manipulator
+- Backstepping approach
+- DCL Introduction
+- Dynamic model
+## 22/09
+- Closed loop control scheme for Dynamics
+- KCL
+- Geometric model
+- geometric / algebraic vectors
+## 25/09
+- Jacobian
+- Cartesian Controller
+- Overall control scheme
+- Introduction to geometric foundamentals
+- Orientation matrices
+- Orthonormal matrices
+- Properties of SO(3)
+## 29/09
+- Concatenation of rotation matrices
+- Homogeneous Coordinates
+- Inverse transformation matrixes
+- Three parameter representation of rotation matrixes
+- Euler angles
+## 2/10
 - Structure of a Rotation Matrix
 - Finding $\Theta$, $\Psi$, $\Phi$ from the matrix
 - Note on singularity.
