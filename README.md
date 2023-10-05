@@ -17,7 +17,7 @@ will _not_ be accepted either. Latex or equivalent documents that have partial s
 *NOTE*
 The solution to this problem would be to make the repo private so that only people that are added can access it, but
 making the repo private brings it's own set of problems. First of all you would not be able to use the tool to download
-only one file inside the repo.
+only one folder inside the repo.
 # Table of Contents
 - [RoboticsEngineeringUnige](#roboticsengineeringunige)
   * [Telegram groups](#telegram-groups)
