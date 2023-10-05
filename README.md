@@ -14,6 +14,7 @@ download your notes to not have duplicated notes name.
 ## Rules
 Slides or any other study material given by professors will _not_ be accepted in this repo. Slides with notes on them
 will _not_ be accepted either. Latex or equivalent documents that have partial slide screenshot embedded in them are ok.
+Graded assigments will not be accepted before the deadline.
 
 *NOTE*
 The solution to this problem would be to make the repo private so that only people that are added can access it, but
