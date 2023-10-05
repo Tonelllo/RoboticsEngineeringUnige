@@ -2,7 +2,7 @@
 
 ## 2/10/23
 - Structure of a Rotation Matrix
-- Finding &Theta, &Psi, &Phi from the matrix
+- Finding $\Theta$, &Psi, &Phi from the matrix
 - Note on singularity.
 - Vector operations: linear combination, scalar product, vector product.
 - Properties of scalar product.
