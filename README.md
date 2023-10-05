@@ -2,9 +2,8 @@
 Repository of student material for the robotics engineering course at university of Genova.
 # How can I download only one folder and not the whole repo?
 For now beeing private this repo does not allow to use:
-```
-https://download-directory.github.io/
-```
+[https://download-directory.github.io/]
+
 wich is a tool to do exactly that. In case someone knows a method please modify this README
 # Important Deadlines
 - 15/10 Deadline for compiling your study plan
