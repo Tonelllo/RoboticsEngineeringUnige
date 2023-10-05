@@ -12,11 +12,12 @@ as: ```Lab[number]-[your name]``` and to put your notes in a folder named ```Not
 add to your notes, inside the folder, your name in some way both to be acknowledged and help those who will 
 download your notes to not have duplicated notes name.
 ## Rules
-Slides or any other study material given by professors will _not_ be accepted in this repo. Slides with notes on them
-will _not_ be accepted either. Latex or equivalent documents that have partial slide screenshot embedded in them are ok.
-Graded assigments will not be accepted before the deadline.
+- Slides or any other study material given by professors will <ins>not</ins> be accepted in this repo.
+- Slides with notes on them will <ins>not</ins> be accepted.
+- Latex or equivalent documents that have partial slide screenshot embedded in them are ok.
+- Graded assigments will <ins>not</ins> be accepted before the deadline.
 
-*NOTE*
+**NOTE**
 The solution to this problem would be to make the repo private so that only people that are added can access it, but
 making the repo private brings it's own set of problems. First of all you would not be able to use the tool to download
 only one folder inside the repo.
