@@ -35,4 +35,13 @@
 - Power of skew-symmetric 3x3 real matrices associated witha unit vector.
 - Trace of skew.
 - Linear operatorn between vectors and example with vector product operator.
-
+## 06/10
+- Matrix exponential operator
+- Properties of the matrix exponential
+- Exponential representation of rotation matrices
+- Angle axes parameters
+- Rotation vector
+- Angle axes vector
+- Rodriguez formula
+- Equivalent Angle-axis inverse problem
+- Euler theorem
