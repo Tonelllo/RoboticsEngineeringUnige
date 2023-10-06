@@ -1,6 +1,6 @@
 # RoboticsEngineeringUnige 🦾
 Repository of student material for the robotics engineering course at university of Genova.<br>
-**DISCLAIMER**
+**DISCLAIMER** this is not an official repository. This is managed only by students.
 ## How can I download only one folder and not the whole repo?
 The following site is exactly for that 
 [https://download-directory.github.io/]
