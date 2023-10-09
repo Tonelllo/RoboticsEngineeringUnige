@@ -45,3 +45,17 @@
 - Rodriguez formula
 - Equivalent Angle-axis inverse problem
 - Euler theorem
+## 09/10
+- Unit quaternion
+- Trigonometric Properties
+- Prostaferesis formulas
+- Alternative Rodriguez formulas
+- Inverse mapping from Rotation matrix to quaternions
+- Angular velocity vector
+- Definition of angular velocity vector
+- Strapdown equation
+- Angular velocity properties and composition rules
+- Galilean velocity composition
+- Angular velocity and the rotation vector
+- Mapping between $\omega$ and the 4-D axis vector
+- Angular velocity vector and time derivative of minimal parametrization vectors
