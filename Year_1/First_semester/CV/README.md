@@ -1,5 +1,8 @@
 # Important Deadlines
 - 18/10 Deadline for uploading the second lab
+# Matlab dark mode
+Finally our eyes can rest:
+https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matlab-beta?status=SUCCESS
 # Lessons report 2023/2024
 
 ## First week
