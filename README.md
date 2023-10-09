@@ -27,6 +27,8 @@ only one folder inside the repo.
   * [Telegram groups](#telegram-groups)
     + [2023/2024](#2023-2024)
   * [Complete timetable](#complete-timetable)
+    + [First Year](#first-year)
+    + [Second Year](#second-year)
   * [Courses links](#courses-links)
   * [Courses Teams code](#courses-teams-code)
     + [2023/2024](#2023-2024-1)
@@ -51,9 +53,12 @@ only one folder inside the repo.
 - **[First year group](https://t.me/+6nOrAmIEi400Y2E0)**
 - **[Second year group](https://t.me/+06dEr-xq2pg4MWM8)**
 ## Complete timetable
+### First Year
 ![Part1 of timetable](TimeTable/1.png?raw=true)
 ![Part2 of timetable](TimeTable/2.png?raw=true)
 ![Part3 of timetable](TimeTable/3.png?raw=true)
+### Second Year
+![Second year timetable](Timetable/secondYear.jpeg?raw=true)
 ## Courses links
 ## Courses Teams code 
 ### 2023/2024
