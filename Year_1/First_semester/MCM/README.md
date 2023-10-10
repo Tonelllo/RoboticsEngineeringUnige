@@ -1,3 +1,12 @@
+# Errata Corrige
+Please note that the 3x3 matrix that represent [hx] is:
+```math
+\begin{bmatrix}
+0 & -z & y\\
+z & 0 & -x\\
+-y & x & 0
+\end{bmatrix}
+```
 # Lessons report 2023/2024
 ## 16/09
 - Physics of a manipulator

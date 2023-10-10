@@ -58,7 +58,7 @@ only one folder inside the repo.
 ![Part2 of timetable](TimeTable/2.png?raw=true)
 ![Part3 of timetable](TimeTable/3.png?raw=true)
 ### Second Year
-![Second year timetable](Timetable/secondYear.jpeg?raw=true)
+![Second year timetable](TimeTable/secondYear.jpeg?raw=true)
 ## Courses links
 ## Courses Teams code 
 ### 2023/2024
