@@ -12,3 +12,8 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 ## 05/10
 - Posix essentials and pipes
 - Syscalls about files, pipes, and process handling.
+
+## 10/10
+- Revision on pipes
+- Introduction to select
+- Introduction to the theme of the assignment

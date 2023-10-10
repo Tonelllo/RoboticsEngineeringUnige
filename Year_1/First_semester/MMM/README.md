@@ -30,3 +30,9 @@
 - 2|R| Constrained planar arm
 - 2|RRR| System
 - Consideration of different configurations and their system dimension
+
+## 10/10
+- Introduction to kinematics
+- Reduction to a class of equivalence from a general example
+- Concept of Istantaneous Axis of Rotation
+- Recap on $\zeta$ and $\xi$ and their pitch
