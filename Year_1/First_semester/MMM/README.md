@@ -36,3 +36,12 @@
 - Reduction to a class of equivalence from a general example
 - Concept of Istantaneous Axis of Rotation
 - Recap on $\zeta$ and $\xi$ and their pitch
+
+## 12/10
+- Revision of the previous lesson
+- $\zeta$ of the revolut joint
+- $\zeta$ of the prismatic joint
+- $\zeta$ of a simple kinematic chain
+- $\zeta$ of a 6R chain
+- Geometric Jacobian
+- Parallel chains

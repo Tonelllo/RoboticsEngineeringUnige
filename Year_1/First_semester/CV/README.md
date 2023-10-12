@@ -24,3 +24,16 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 - Lab lesson about edge detection
 - Material on aulaweb under lab3
 
+## 11/10
+- 4th set of slides
+- Beginning of object detection
+- Blob detection
+- Color matching
+- Image segmentation
+- Multi-resolution representation
+- Scale space
+- Gaussian piramid
+- downsampling
+- Approximating Log with Dog
+- Laplacian DoG Pyramid
+- RGB CMY HIL STSC
