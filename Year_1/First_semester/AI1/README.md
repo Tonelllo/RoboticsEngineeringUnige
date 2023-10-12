@@ -21,3 +21,9 @@
 - Syntax and semantics
 - Examples of first order logic
 - Functions and interpretations
+## 12/10
+- Slides 36-42
+- Exercises on First order logic
+- Models satisfiability, validity
+- Logical equivalence
+- Logical consequence
