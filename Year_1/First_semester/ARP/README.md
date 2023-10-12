@@ -17,3 +17,7 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 - Revision on pipes
 - Introduction to select
 - Introduction to the theme of the assignment
+
+## 12/10
+- Revision of Select
+- Presentation of the assigment
