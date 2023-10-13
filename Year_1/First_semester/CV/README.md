@@ -37,3 +37,5 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 - Approximating Log with Dog
 - Laplacian DoG Pyramid
 - RGB CMY HIL STSC
+## 12/10
+- Lab
