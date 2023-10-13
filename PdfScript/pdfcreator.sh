@@ -4,7 +4,7 @@ $array
 
 for i in ${dir_array[@]}
 do
-    echo "found .svgz in directory  $i
+    echo "found .svgz in directory "  $i
     readarray -d '' array < <(find $i -name "*.svgz" -print0)
 done
 
