@@ -27,7 +27,7 @@ jobs:
           version: 1.0
       - name: Installing Write
         run: |
-          wget https://www.styluslabs.com/download/write-tgz,
+          wget -O Write.tar.gz https://www.styluslabs.com/download/write-tgz --no-check-certificate,
           mkdir Write,
           tar –xvzf *.tar.gz -C Write --strip-components 1.
 
