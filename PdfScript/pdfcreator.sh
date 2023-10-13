@@ -12,5 +12,6 @@ for i in ${array[@]}
 do
     echo "processing " $i
     out=${i%.svgz}.pdf
-    ./Write/Write --exit --out $out $i
+    out1=${out#./}
+    ./Write/Write --exit --out $out1 $i
 done
