@@ -45,3 +45,6 @@
 - $\zeta$ of a 6R chain
 - Geometric Jacobian
 - Parallel chains
+
+## 13/10
+- Lab
