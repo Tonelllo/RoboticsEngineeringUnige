@@ -29,17 +29,12 @@ jobs:
         run: |
           wget https://www.styluslabs.com/download/write-tgz,
           mkdir Write,
-          tar –xvzf *.tar.gz -C Write --strip-components 1
+          tar –xvzf *.tar.gz -C Write --strip-components 1.
 
       - name: Creating PDFs
-        run: find . -name *.svgz -exec ./Write/Write --exit --out {} \;
-        
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          sudo chmod u+x PdfScript/pdfcreator.sh,
+          ./PdfScript/pdfcreator.sh.
+        
+      - name: Creating OCR layer
+        run: find . -name *-DavideTonelli.pdf -exec ocrmypdf --language eng --output-type pdf --verbose 1 {} {} \;
