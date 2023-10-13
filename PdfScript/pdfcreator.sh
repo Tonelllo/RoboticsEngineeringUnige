@@ -1,7 +1,7 @@
 readarray -d '' dir_array < <(find . -type d -name "*-DT" -print0)
 
 $array
-ls
+ls ~
 for i in ${dir_array[@]}
 do
     echo "found DT directory "  $i
