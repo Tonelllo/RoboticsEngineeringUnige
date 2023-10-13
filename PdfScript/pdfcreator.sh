@@ -7,8 +7,9 @@ do
     for j in ${array[@]}
     do
         echo "processing " $j
-        out=${i%.svgz}.pdf
+        out=${i%.svgz}.pdfa
         out1=${out#./}
         ./Write/Write --exit --out $out1 $j
     done
 done
+ls ./Year_1/FirstSemester/MCM/MCM-DT/
