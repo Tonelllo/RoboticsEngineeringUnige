@@ -1,7 +1,7 @@
 readarray -d '' dir_array < <(find . -type d -name "*-DT" -print0)
 
 $array
-ls ../../
+pwd
 for i in ${dir_array[@]}
 do
     echo "found DT directory "  $i
@@ -12,6 +12,6 @@ for i in ${array[@]}
 do
     echo "processing " $i
     out=${i%.svgz}.pdf
-    out1=../../${out#./}
-    ../../Write/Write --exit --out $out1 $i
+    out1=../${out#./}
+    ../Write/Write --exit --out $out1 $i
 done
