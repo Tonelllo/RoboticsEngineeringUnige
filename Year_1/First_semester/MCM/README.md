@@ -68,3 +68,6 @@ z & 0 & -x\\
 - Angular velocity and the rotation vector
 - Mapping between $\omega$ and the 4-D axis vector
 - Angular velocity vector and time derivative of minimal parametrization vectors
+
+## 13/10
+- Lab
