@@ -12,4 +12,4 @@ do
         ./Write/Write --exit --out $out1 $j
     done
 done
-ls ./Year_1/FirstSemester/MCM/MCM-DT/
+ls ./Year_1/First_semester/MCM/MCM-DT/
