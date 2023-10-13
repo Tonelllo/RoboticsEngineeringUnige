@@ -13,5 +13,5 @@ do
     echo "processing " $i
     out=${i%.svgz}.pdf
     out1=${out#./}
-    ./Write/Write --exit --out $out1 $i
+    Write/Write --exit --out $out1 $i
 done
