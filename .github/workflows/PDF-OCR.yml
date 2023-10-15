@@ -37,7 +37,7 @@ jobs:
       #    ./PdfScript/pdfcreator.sh
       
       - name: Creating OCR layer
-        run: find . -name *-DavideTonelli.pdf -exec ocrmypdf --language eng --output-type pdf --verbose 1 {} {} \;
+        run: find . -name *-DavideTonelli.pdf -exec ocrmypdf --language eng --output-type pdf {} {} \;
       - name: Committing files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
