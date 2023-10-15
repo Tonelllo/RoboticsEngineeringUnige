@@ -25,16 +25,16 @@ jobs:
         with:
           packages: ocrmypdf
           version: 1.0
-      - name: Installing Write
-        run: |
-          wget -O Write.tar.gz https://www.styluslabs.com/download/write-tgz --no-check-certificate
-          mkdir Write
-          tar -xvzf Write.tar.gz -C Write --strip-components 1
+      #- name: Installing Write
+      #  run: |
+      #    wget -O Write.tar.gz https://www.styluslabs.com/download/write-tgz --no-check-certificate
+      #    mkdir Write
+      #    tar -xvzf Write.tar.gz -C Write --strip-components 1
 
-      - name: Creating PDFs
-        run: |
-          sudo chmod u+x PdfScript/pdfcreator.sh
-          ./PdfScript/pdfcreator.sh
+      #- name: Creating PDFs
+      #  run: |
+      #    sudo chmod u+x PdfScript/pdfcreator.sh
+      #    ./PdfScript/pdfcreator.sh
       
       - name: Creating OCR layer
         run: find . -name *-DavideTonelli.pdf -exec ocrmypdf --language eng --output-type pdf --verbose 1 {} {} \;
