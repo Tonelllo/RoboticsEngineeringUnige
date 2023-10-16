@@ -71,3 +71,8 @@ z & 0 & -x\\
 
 ## 13/10
 - Lab
+
+## 16/10
+- Unit quaternion and angular velocity vector and inverse mapping
+- Pros and cons of the differt techniques seen
+- Lab
