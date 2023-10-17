@@ -1,4 +1,9 @@
 {
   "projectName": "RoboticsEngineeringUnige",
-  "projectOwner": "Tonelllo"
+  "projectOwner": "Tonelllo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
 }
