@@ -21,3 +21,6 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 ## 12/10
 - Revision of Select
 - Presentation of the assigment
+
+## 17/10
+- Coding day

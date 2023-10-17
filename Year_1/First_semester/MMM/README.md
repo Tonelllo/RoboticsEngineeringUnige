@@ -45,3 +45,11 @@
 - $\zeta$ of a 6R chain
 - Geometric Jacobian
 - Parallel chains
+
+## 17/10
+- System reasoning
+- Extracting the system view
+- DoF of system and DoF of end effector
+- Example of special and general systems
+- Example with ruled surfaces
+- Examples of singularities
