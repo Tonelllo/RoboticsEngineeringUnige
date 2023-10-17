@@ -46,6 +46,7 @@ only one folder inside the repo.
     + [Real Time Operating Systems](#real-time-operating-systems)
     + [Research Track 1](#research-track-1)
     + [System Identification](#system-identification)
+  * [Contributors](#contributors)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
