@@ -1,4 +1,5 @@
 # RoboticsEngineeringUnige 🦾
+[![All Contributors](https://img.shields.io/github/all-contributors/Tonelllo/RoboticsEngineeringUnige?color=ee8449&style=flat-square)](#contributors)
 Repository of student material for the robotics engineering course at university of Genova.<br>
 **DISCLAIMER** this is not an official repository. This is managed only by students.
 ## How can I download only one folder and not the whole repo?
@@ -114,3 +115,14 @@ only one folder inside the repo.
 ### System Identification
 #### President
 - Marco Baglietto ```marco.baglietto@unige.it```
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
