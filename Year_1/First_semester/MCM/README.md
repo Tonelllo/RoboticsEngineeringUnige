@@ -1,3 +1,5 @@
+# Deadlines
+- First assigment deadline: 31/10
 # Errata Corrige
 Please note that the 3x3 matrix that represent [hx] is:
 ```math

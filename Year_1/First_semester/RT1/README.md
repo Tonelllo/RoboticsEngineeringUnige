@@ -1,4 +1,6 @@
-u# Lessons report 2023/2024
+# Deadlines
+- Deadline for the first assignment 12/11
+# Lessons report 2023/2024
 
 ## First week
 - Introduction to git and docker
