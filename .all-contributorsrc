@@ -1,4 +1,26 @@
 {
   "projectName": "RoboticsEngineeringUnige",
-  "projectOwner": "Tonelllo"
+  "projectOwner": "Tonelllo",
+  "repoType": "github",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Tonelllo",
+      "name": "Davide Tonelli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79359121?v=4",
+      "profile": "https://github.com/Tonelllo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "annikadl",
+      "name": "annika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83355514?v=4",
+      "profile": "https://github.com/annikadl",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
