@@ -40,8 +40,8 @@ jobs:
         run: find . -name *-DavideTonelli.pdf -exec ocrmypdf --language eng --output-type pdf {} {} \;
       - name: Committing files
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "pdf_and_ocr[bot]@users.noreply.github.com"
+          git config --local user.name "pdf_and_ocr[bot]"
           git commit -a -m "Generated OCR layer for pdfs"
       - name: Push changes
         uses: ad-m/github-push-action@master
