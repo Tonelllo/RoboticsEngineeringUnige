@@ -1,5 +1,8 @@
 # RoboticsEngineeringUnige 🦾
-[![All Contributors](https://img.shields.io/github/all-contributors/Tonelllo/RoboticsEngineeringUnige?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/Tonelllo/RoboticsEngineeringUnige)](#contributors)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Tonelllo/RoboticsEngineeringUnige/.github%2Fworkflows%2FPDF-OCR.yml)
+![Static Badge](https://img.shields.io/badge/made_with-%E2%9D%A4%EF%B8%8F-green)
+
 
 Repository of student material for the robotics engineering course at university of Genova.<br>
 **DISCLAIMER** this is not an official repository. This is managed only by students.
