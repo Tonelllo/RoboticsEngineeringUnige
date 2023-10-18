@@ -27,3 +27,10 @@
 - Models satisfiability, validity
 - Logical equivalence
 - Logical consequence
+
+## 18/10
+- Prenex normal form
+- Conjunctive and disjuctive normal form
+- skolem normal form
+- Herbrand interpretation
+- Herbrand and compactness thorem
