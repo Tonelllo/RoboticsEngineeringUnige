@@ -39,3 +39,16 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 - RGB CMY HIL STSC
 ## 12/10
 - Lab
+## 18/10
+- Blob detection and Template matching
+- Intensity matching
+- Raw cross correlation
+- Zero mean Template
+- Normalized cross correlation
+- Feature points
+- Paronama stitching
+- Corner detection
+- Harris corner detection
+- Invariance and covariance
+- Multi-scale approach
+- Harris-Laplace
