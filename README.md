@@ -128,6 +128,7 @@ only one folder inside the repo.
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Tonelllo"><img src="https://avatars.githubusercontent.com/u/79359121?v=4?s=100" width="100px;" alt="Davide Tonelli"/><br /><sub><b>Davide Tonelli</b></sub></a><br /><a href="https://github.com/Tonelllo/RoboticsEngineeringUnige/commits?author=Tonelllo" title="Code">💻</a> <a href="#content-Tonelllo" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/annikadl"><img src="https://avatars.githubusercontent.com/u/83355514?v=4?s=100" width="100px;" alt="annika"/><br /><sub><b>annika</b></sub></a><br /><a href="#content-annikadl" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/meskoj"><img src="https://avatars.githubusercontent.com/u/145445406?v=4?s=100" width="100px;" alt="Marco Meschini"/><br /><sub><b>Marco Meschini</b></sub></a><br /><a href="#content-meskoj" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
