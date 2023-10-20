@@ -24,3 +24,6 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 
 ## 17/10
 - Coding day
+
+## 19/10
+- Introduction to signals
