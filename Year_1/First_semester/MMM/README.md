@@ -53,3 +53,8 @@
 - Example of special and general systems
 - Example with ruled surfaces
 - Examples of singularities
+
+## 19/10
+- Constraints and allowable instantaneous motion
+- Examples with spherical, revolut and prismatic joint
+- Power and reciprocal product
