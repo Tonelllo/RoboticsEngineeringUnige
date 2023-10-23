@@ -78,3 +78,10 @@ z & 0 & -x\\
 - Unit quaternion and angular velocity vector and inverse mapping
 - Pros and cons of the differt techniques seen
 - Lab
+
+## 23/10
+- Beginnig of kinematics
+- Notations
+- Carosel example
+- Velocity relationship between multiple frames and algebraic representation
+- Composition of angular velocities

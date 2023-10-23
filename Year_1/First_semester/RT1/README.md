@@ -13,5 +13,8 @@
 - Exercise using python_simulator: https://github.com/CarmineD8/python_simulator
 - Exercises 1,2 and 3.
 
-## 16/0
+## 16/10
 - Introduction to c++ and ros
+
+## 23/10
+- Creation of a c++ project and publisher-subscriber c++ example
