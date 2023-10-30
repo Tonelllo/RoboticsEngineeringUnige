@@ -85,3 +85,9 @@ z & 0 & -x\\
 - Carosel example
 - Velocity relationship between multiple frames and algebraic representation
 - Composition of angular velocities
+
+## 30/10
+- Computing velocity of a point from any reference frame
+- Computing acceleration from any reference frame
+- Gravity wheel example
+- Moving robot with camera example
