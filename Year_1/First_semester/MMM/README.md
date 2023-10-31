@@ -58,3 +58,6 @@
 - Constraints and allowable instantaneous motion
 - Examples with spherical, revolut and prismatic joint
 - Power and reciprocal product
+
+## 31/10
+- Examples on scara robot
