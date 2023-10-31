@@ -27,3 +27,5 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 
 ## 19/10
 - Introduction to signals
+## 31/10
+- Shared memory
