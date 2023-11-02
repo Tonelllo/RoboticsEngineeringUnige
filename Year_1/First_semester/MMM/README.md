@@ -61,3 +61,6 @@
 
 ## 31/10
 - Examples on scara robot
+
+## 03/11
+- Other examples about constraints and twists
