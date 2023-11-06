@@ -91,3 +91,15 @@ z & 0 & -x\\
 - Computing acceleration from any reference frame
 - Gravity wheel example
 - Moving robot with camera example
+
+## 03/11
+- Continuation of exercise on robot with camera
+- Notes on camera frame
+- Kinematic chains
+- Types of joints
+
+## 06/11
+- Introduction of problems in kinematics: forward, inverse
+- Types of kinematic chains
+- Differences between revolut(rotational) and prismatic joints
+- Forward geometry
