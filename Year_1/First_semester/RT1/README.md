@@ -18,3 +18,6 @@
 
 ## 23/10
 - Creation of a c++ project and publisher-subscriber c++ example
+
+## 06/11
+- Creation of publishers and subscribers for turtle-bot in c++
