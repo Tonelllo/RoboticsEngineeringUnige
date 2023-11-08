@@ -64,3 +64,6 @@
 
 ## 03/11
 - Other examples about constraints and twists
+## 07/11
+- $\zeta_a$ of a spherical joint with one revolut blocked
+- Introduction to purely parallel robots

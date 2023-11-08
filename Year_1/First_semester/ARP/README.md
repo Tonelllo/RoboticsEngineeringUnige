@@ -29,3 +29,5 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 - Introduction to signals
 ## 31/10
 - Shared memory
+## 07/11
+- Concurrent programming paradims: dining philosophers

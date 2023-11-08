@@ -34,3 +34,7 @@
 - skolem normal form
 - Herbrand interpretation
 - Herbrand and compactness thorem
+
+## 08/11
+- Examples of classical planning examples: dock example and block example
+- PDDL introduction

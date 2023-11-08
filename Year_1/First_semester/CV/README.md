@@ -53,3 +53,17 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 - Invariance and covariance
 - Multi-scale approach
 - Harris-Laplace
+
+## 02/11
+- Camera model
+- Camera calibration
+- Projection matrix
+- DLT
+- Homographies
+- RANSAC
+
+## 08/11
+- Image matching
+- Histogram matching
+- Local matching
+- Affinity matrix
