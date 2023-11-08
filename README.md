@@ -28,7 +28,14 @@ The solution to this problem would be to make the repo private so that only peop
 making the repo private brings it's own set of problems. First of all you would not be able to use the tool to download
 only one folder inside the repo.
 # Table of Contents
-- [RoboticsEngineeringUnige](#roboticsengineeringunige)
+- [Table of Contents](#table-of-contents)
+  * [Exam Dates](#exam-dates)
+    + [Advanced and robot programming](#advanced-and-robot-programming)
+    + [Artificial intelligence for robotics](#artificial-intelligence-for-robotics)
+    + [Computer vision](#computer-vision)
+    + [Mechanics of mechanisms and machines](#mechanics-of-mechanisms-and-machines)
+    + [Modeling and control of manipulators](#modeling-and-control-of-manipulators)
+    + [Research track 1](#research-track-1)
   * [Telegram groups](#telegram-groups)
     + [2023/2024](#2023-2024)
   * [Complete timetable](#complete-timetable)
@@ -39,20 +46,79 @@ only one folder inside the repo.
     + [2023/2024](#2023-2024-1)
   * [Professor contacts](#professor-contacts)
     + [Advanced and Robot Programming](#advanced-and-robot-programming)
+      - [President](#president)
+      - [Assistants](#assistants)
     + [Artificial Intelligence for Robotics 1](#artificial-intelligence-for-robotics-1)
+      - [President](#president-1)
     + [Computer Vision](#computer-vision)
+      - [President](#president-2)
+      - [Other teacher](#other-teacher)
     + [Control of Linear Multi-Variable Systems](#control-of-linear-multi-variable-systems)
+      - [President](#president-3)
     + [Machine Learning For Robotics 1](#machine-learning-for-robotics-1)
+      - [President](#president-4)
     + [Mechanics of Mechanisms and Machines](#mechanics-of-mechanisms-and-machines)
+      - [President](#president-5)
     + [Modeling and Control of Manipulators](#modeling-and-control-of-manipulators)
+      - [President](#president-6)
+      - [Other Teacher](#other-teacher)
     + [Optimization Techniques](#optimization-techniques)
+      - [President](#president-7)
     + [Real Time Operating Systems](#real-time-operating-systems)
+      - [President](#president-8)
     + [Research Track 1](#research-track-1)
+      - [President](#president-9)
     + [System Identification](#system-identification)
+      - [President](#president-10)
   * [Contributors](#contributors)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+## Exam Dates
+
+### Advanced and robot programming
+- 16/01/2024
+- 13/02/2024
+- 19/06/2024
+- 22/07/2024
+- 11/09/2024
+
+### Artificial intelligence for robotics
+- 22/12/2023
+- 02/02/2024
+- 07/06/2024
+- 08/07/2024
+- 10/09/2024
+
+### Computer vision
+- 22/01/2024
+- 12/02/2024
+- 18/06/2024
+- 17/07/2024
+- 11/09/2024
+
+### Mechanics of mechanisms and machines
+- 10/01/2024
+- 05/02/2024
+- 24/06/2024
+- 15/07/2024
+- 04/09/2024
+
+### Modeling and control of manipulators
+- 09/01/2024
+- 30/01/2024
+- 31/05/2024
+- 05/07/2024
+- 06/09/2024
+
+### Research track 1
+- 15/01/2024
+- 29/01/2024
+- 14/02/2024
+- 13/06/2024
+- 27/06/2024
+- 19/07/2024
+- 10/09/2024
 
 ## Telegram groups 
 ### 2023/2024
