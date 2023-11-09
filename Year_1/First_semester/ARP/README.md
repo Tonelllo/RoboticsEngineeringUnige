@@ -31,3 +31,5 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 - Shared memory
 ## 07/11
 - Concurrent programming paradims: dining philosophers
+## 09/11
+- Introduction to sockets

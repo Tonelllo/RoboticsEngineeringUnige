@@ -1,5 +1,9 @@
 # Lessons report 2023/2024
-
+# How to install Metric-FF
+For linux systems:
+[Download from here](https://fai.cs.uni-saarland.de/hoffmann/ff/FF-v2.3-newlines-parse-goldman.tgz)
+For Windows refer to the main page:
+[Main page](https://fai.cs.uni-saarland.de/hoffmann/ff.html)
 ## 04/10/23
 - Tseitin's encoding
 - Truth tables
@@ -38,3 +42,6 @@
 ## 08/11
 - Examples of classical planning examples: dock example and block example
 - PDDL introduction
+## 09/11
+- Lab on PDDL
+- exercise on balls and blocks

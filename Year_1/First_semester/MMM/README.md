@@ -67,3 +67,7 @@
 ## 07/11
 - $\zeta_a$ of a spherical joint with one revolut blocked
 - Introduction to purely parallel robots
+## 09/11
+- Purely parallel chains
+- Discussion about relationship between cost and speed or torque given the same power
+- Constraints and allowed motion of closed chains

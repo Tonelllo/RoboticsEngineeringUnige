@@ -67,3 +67,6 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 - Histogram matching
 - Local matching
 - Affinity matrix
+
+## 09/11
+- Lab about topics of the last two lessons
