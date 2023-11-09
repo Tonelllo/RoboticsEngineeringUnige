@@ -2,8 +2,19 @@
 # How to install Metric-FF
 For linux systems:
 [Download from here](https://fai.cs.uni-saarland.de/hoffmann/ff/FF-v2.3-newlines-parse-goldman.tgz)
-For Windows refer to the main page:
-[Main page](https://fai.cs.uni-saarland.de/hoffmann/ff.html)
+For the full documentation refer to:
+[Main page](https://fai.cs.uni-saarland.de/hoffmann/ff.html)<br>
+Inside the downloaded folder you will find the already built binary: `ff`. Put that in a folder inside your path and you are
+good to go.<br>
+If you are asking yourself: path? what path? Then follow these steps:
+- Open a terminal
+- Type `echo $PATH`
+- The output should be something like: `/usr/sbin:/usr/bin:/sbin:/bin`
+- This is not the optimal way but now copy the `ff` executable inside `/usr/bin`. Please note that you will need root privileges to do that
+- Done! You can use `ff` wherever you want
+
+There is also a windows version that you can find here:
+https://fai.cs.uni-saarland.de/hoffmann/metric-ff.html
 ## 04/10/23
 - Tseitin's encoding
 - Truth tables
