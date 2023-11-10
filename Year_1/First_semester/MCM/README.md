@@ -103,3 +103,9 @@ z & 0 & -x\\
 - Types of kinematic chains
 - Differences between revolut(rotational) and prismatic joints
 - Forward geometry
+
+## 10/11
+- Recap of last lesson's topics
+- Example of composition of Transformation matrices
+- Example of a multijoint gripper
+- Example of forward kinematic computation
