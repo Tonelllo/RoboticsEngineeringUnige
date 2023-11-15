@@ -71,3 +71,6 @@
 - Purely parallel chains
 - Discussion about relationship between cost and speed or torque given the same power
 - Constraints and allowed motion of closed chains
+
+## 14/11
+- Examples of different kinds of closed loop mechanisms

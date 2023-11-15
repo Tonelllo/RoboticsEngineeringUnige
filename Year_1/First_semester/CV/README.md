@@ -70,3 +70,6 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 
 ## 09/11
 - Lab about topics of the last two lessons
+
+## 15/11
+- Stereo vision

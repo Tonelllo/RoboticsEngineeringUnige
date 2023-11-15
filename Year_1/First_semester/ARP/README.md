@@ -20,7 +20,7 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 
 ## 12/10
 - Revision of Select
-- Presentation of the assigment
+- Presentation of the assignment
 
 ## 17/10
 - Coding day
@@ -30,6 +30,8 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 ## 31/10
 - Shared memory
 ## 07/11
-- Concurrent programming paradims: dining philosophers
+- Concurrent programming paradigms: dining philosophers
 ## 09/11
 - Introduction to sockets
+## 14/11
+- Continuation of sockets slides and assignment update
