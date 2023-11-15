@@ -21,3 +21,6 @@
 
 ## 06/11
 - Creation of publishers and subscribers for turtle-bot in c++
+
+## 13/11
+- Exercise with publisher and subscriber with turtlebot

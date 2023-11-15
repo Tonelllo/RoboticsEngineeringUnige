@@ -1,5 +1,6 @@
 # Deadlines
 - First assigment deadline: 31/10
+- Second assignment deadline 30/11
 # Errata Corrige
 Please note that the 3x3 matrix that represent [hx] is:
 ```math
@@ -109,3 +110,6 @@ z & 0 & -x\\
 - Example of composition of Transformation matrices
 - Example of a multijoint gripper
 - Example of forward kinematic computation
+
+## 13/11
+- Start of assignment 2
