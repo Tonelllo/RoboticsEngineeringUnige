@@ -73,3 +73,6 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 
 ## 15/11
 - Stereo vision
+
+## 16/11
+- Assignment 2
