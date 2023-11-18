@@ -1,5 +1,9 @@
 # Assigment Solutions
 All the assigments solutions are uploaded in aulaweb in the section: "Shared solutions to proposed exercises and forum"
+
+# Deadlines
+- 30/11 deadline for the first assignment
+
 # Lessons report 2023/2024
 
 # First and second week
