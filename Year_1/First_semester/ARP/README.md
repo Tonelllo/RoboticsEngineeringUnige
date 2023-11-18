@@ -35,3 +35,5 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 - Introduction to sockets
 ## 14/11
 - Continuation of sockets slides and assignment update
+## 16/11
+- Sockets line by line iso/osi
