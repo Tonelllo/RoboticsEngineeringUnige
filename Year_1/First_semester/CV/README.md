@@ -1,6 +1,7 @@
 # Important Deadlines
 - 18/10 Deadline for uploading the first assignment
 - 15/11 Deadline for uploading the second assignment
+- 06/12 Deadline for uploading the third assignment
 # Matlab dark mode
 Finally our eyes can rest:
 https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matlab-beta?status=SUCCESS
