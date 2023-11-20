@@ -113,3 +113,6 @@ z & 0 & -x\\
 
 ## 13/11
 - Start of assignment 2
+## 20/11
+- Jacobian matrix
+- Rigid point Jacobian

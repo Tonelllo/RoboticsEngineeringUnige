@@ -24,3 +24,5 @@
 
 ## 13/11
 - Exercise with publisher and subscriber with turtlebot
+## 20/11
+- Exercise with turtlebot
