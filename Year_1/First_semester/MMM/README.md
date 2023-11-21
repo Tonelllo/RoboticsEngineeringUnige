@@ -74,3 +74,7 @@
 
 ## 14/11
 - Examples of different kinds of closed loop mechanisms
+
+## 21/11
+- 5 bar linkage example
+- Tripteron example
