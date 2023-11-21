@@ -59,3 +59,11 @@ https://fai.cs.uni-saarland.de/hoffmann/metric-ff.html
 ## 15/11
 - Finished blocks example
 - Introduction to reinforcement learning
+## 16/11
+- The Agent-Environment Interface
+- Goals, Rewards, Returns
+- The Markov Property
+- The Markov Decision Process
+- Value Functions
+- Optimal Value Functions
+- Optimality and Approximation
