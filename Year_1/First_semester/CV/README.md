@@ -77,3 +77,9 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 
 ## 16/11
 - Assignment 2
+
+## 22/11
+- Disparity maps
+- Correspondence and rectification
+- Similarity measure
+- Triangulation

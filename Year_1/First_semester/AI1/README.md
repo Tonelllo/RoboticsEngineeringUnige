@@ -67,3 +67,5 @@ https://fai.cs.uni-saarland.de/hoffmann/metric-ff.html
 - Value Functions
 - Optimal Value Functions
 - Optimality and Approximation
+## 22/11
+- Introduction to dynamic programming
