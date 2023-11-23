@@ -83,3 +83,6 @@ https://it.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matla
 - Correspondence and rectification
 - Similarity measure
 - Triangulation
+
+# 23/11
+- Detecting movement part 1
