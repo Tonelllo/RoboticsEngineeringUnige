@@ -41,3 +41,5 @@ All the assigments solutions are uploaded in aulaweb in the section: "Shared sol
 - Continuation of sockets slides and assignment update
 ## 16/11
 - Sockets line by line iso/osi
+## 23/11
+- Revision of kernel structure, explanation of exam.
