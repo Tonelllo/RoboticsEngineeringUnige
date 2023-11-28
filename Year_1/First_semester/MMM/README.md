@@ -78,3 +78,6 @@
 ## 21/11
 - 5 bar linkage example
 - Tripteron example
+
+## 28/11
+- Stewart platform

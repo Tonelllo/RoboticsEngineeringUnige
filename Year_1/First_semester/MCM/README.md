@@ -116,3 +116,5 @@ z & 0 & -x\\
 ## 20/11
 - Jacobian matrix
 - Rigid point Jacobian
+## 27/11
+- Lab session

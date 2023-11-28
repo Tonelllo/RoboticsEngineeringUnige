@@ -26,3 +26,5 @@
 - Exercise with publisher and subscriber with turtlebot
 ## 20/11
 - Exercise with turtlebot
+## 27/11
+- Creation of a custom service and message
