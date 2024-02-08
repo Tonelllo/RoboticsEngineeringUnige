@@ -12,6 +12,7 @@ The following site is exactly for that
 ## Impending Deadlines ⏰
 ⚠️This is not a reliable source of information⚠️
 - 15/10 Deadline for compiling your study plan
+- 25/2-03/3 Deadlines for submitting changes to your study plan
 ## Contributing Guidelines
 Hoping that many people will add their notes and material in general I suggest to name folders of labs
 as: ```Lab[number]-[your name]``` and to put your notes in a folder named ```[Course Abbreviation]-[your initials]```. Please also 
@@ -40,6 +41,8 @@ only one folder inside the repo.
     + [2023/2024](#2023-2024)
   * [Complete timetable](#complete-timetable)
     + [First Year](#first-year)
+        - [First Semester](#first-semester)
+        - [Second Semester](#second-semester)
     + [Second Year](#second-year)
   * [Courses links](#courses-links)
   * [Courses Teams code](#courses-teams-code)
@@ -55,7 +58,15 @@ only one folder inside the repo.
     + [Real Time Operating Systems](#real-time-operating-systems)
     + [Research Track 1](#research-track-1)
     + [System Identification](#system-identification)
-  * [Contributors](#contributors)
+    + [Embedded Systems](#embedded-systems)
+    + [Artificial Intelligence For Robotics 2](#artificial-intelligence-for-robotics-2)
+    + [Cognitive Architecture For Robotics](#cognitive-architecture-for-robotics)
+    + [Robot Dynamics And Control](#robot-dynamics-and-control)
+    + [Mechanical Design Methods In Robotics](#mechanical-design-methods-in-robotics)
+    + [Research Track 2](#research-track-2)
+    + [Signal Processing In Robotics](#signal-processing-in-robotics)
+    + [Mobile Robots](#mobile-robots)
+    + [Human Computer Interaction](#human-computer-interaction)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -111,9 +122,13 @@ only one folder inside the repo.
 - **[Second year group](https://t.me/+06dEr-xq2pg4MWM8)**
 ## Complete timetable
 ### First Year
+#### First Semester
 ![Part1 of timetable](TimeTable/1.png?raw=true)
 ![Part2 of timetable](TimeTable/2.png?raw=true)
 ![Part3 of timetable](TimeTable/3.png?raw=true)
+#### Second Semester
+![Part1 of second semester timetable](TimeTable/SecondSemester1.png?raw=true)
+![Part2 of second semester timetable](TimeTable/SecondSemester2.png?raw=true)
 ### Second Year
 ![Second year timetable](TimeTable/secondYear.jpeg?raw=true)
 ## Courses links
@@ -171,6 +186,33 @@ only one folder inside the repo.
 ### System Identification
 #### President
 - Marco Baglietto ```marco.baglietto@unige.it```
+### Embedded Systems
+#### President
+- Enrico Simetti ```enrico.simetti@unige.it```
+### Artificial Intelligence For Robotics 2
+#### President
+- Fulvio Mastrogiovanni ```fulvio.mastrogiovanni@unige.it```
+### Cognitive Architecture For Robotics
+#### President
+- Fulvio Mastrogiovanni ```fulvio.mastrogiovanni@unige.it```
+### Robot Dynamics And Control
+#### President
+- Giorgio Cannata ```giorgio.cannata@unige.it```
+### Mechanical Design Methods In Robotics
+#### President
+- Matteo Zoppi ```matteo.zoppi@unige.it```
+### Research Track 2
+#### President
+- Carmine Recchiuto ```carmine.recchiuto@dibris.unige.it```
+### Signal Processing In Robotics
+#### President
+- Matteo Lodi ```matteo.lodi@unige.it```
+### Mobile Robots
+#### President
+- Garcia Gaetan ```gaetan.garcia@edu.unige.it```
+### Human Computer Interaction
+#### President
+- Antonio Camurri ```antonio.camurri@unige.it```
 
 ## Contributors
 
