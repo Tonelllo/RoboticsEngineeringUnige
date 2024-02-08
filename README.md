@@ -59,13 +59,13 @@ only one folder inside the repo.
     + [Research Track 1](#research-track-1)
     + [System Identification](#system-identification)
     + [Embedded Systems](#embedded-systems)
-    + [Artificial Intelligence For Robotics 2](artificial-intelligence-for-robotics-2)
-    + [Cognitive Architecture For Robotics](cognitive-architecture-for-robotics)
-    + [Robot Dynamics And Control](robot-dynamics-and-control)
-    + [Mechanical Design Methods In Robotics](mechanical-design-methods-in-robotics)
-    + [Research Track 2](research-track-2)
-    + [Signal Processing In Robotics](signal-processing-in-robotics)
-    + [Mobile Robots](mobile-robots)
+    + [Artificial Intelligence For Robotics 2](#artificial-intelligence-for-robotics-2)
+    + [Cognitive Architecture For Robotics](#cognitive-architecture-for-robotics)
+    + [Robot Dynamics And Control](#robot-dynamics-and-control)
+    + [Mechanical Design Methods In Robotics](#mechanical-design-methods-in-robotics)
+    + [Research Track 2](#research-track-2)
+    + [Signal Processing In Robotics](#signal-processing-in-robotics)
+    + [Mobile Robots](#mobile-robots)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
