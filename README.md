@@ -66,6 +66,7 @@ only one folder inside the repo.
     + [Research Track 2](#research-track-2)
     + [Signal Processing In Robotics](#signal-processing-in-robotics)
     + [Mobile Robots](#mobile-robots)
+    + [Human Computer Interaction](#human-computer-interaction)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -209,6 +210,9 @@ only one folder inside the repo.
 ### Mobile Robots
 #### President
 - Garcia Gaetan ```gaetan.garcia@edu.unige.it```
+### Human Computer Interaction
+#### President
+- Antonio Camurri ```antonio.camurri@unige.it```
 
 ## Contributors
 
