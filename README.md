@@ -126,8 +126,8 @@ only one folder inside the repo.
 ![Part2 of timetable](TimeTable/2.png?raw=true)
 ![Part3 of timetable](TimeTable/3.png?raw=true)
 #### Second Semester
-![Part1 of second semester timetable](TimeTable/SecondSemster1.png?raw=true)
-![Part2 of second semester timetable](TimeTable/SecondSemster2.png?raw=true)
+![Part1 of second semester timetable](TimeTable/SecondSemester1.png?raw=true)
+![Part2 of second semester timetable](TimeTable/SecondSemester2.png?raw=true)
 ### Second Year
 ![Second year timetable](TimeTable/secondYear.jpeg?raw=true)
 ## Courses links
