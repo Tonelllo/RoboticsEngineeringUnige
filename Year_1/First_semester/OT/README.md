@@ -1,1 +1,1 @@
-Many thanks to @RominaZe that provided her notes
+Many thanks to [@RominaZe](https://github.com/RominaZe) that provided her notes
