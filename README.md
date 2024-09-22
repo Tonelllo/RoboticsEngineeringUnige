@@ -120,7 +120,7 @@ only one folder inside the repo.
 ### 2023/2024
 - **[First year group](https://t.me/+6nOrAmIEi400Y2E0)**
 - **[Second year group](https://t.me/+06dEr-xq2pg4MWM8)**
-## Complete timetable
+## Complete timetable 2023/2024
 ### First Year
 #### First Semester
 ![Part1 of timetable](TimeTable/1.png?raw=true)
@@ -131,6 +131,10 @@ only one folder inside the repo.
 ![Part2 of second semester timetable](TimeTable/SecondSemester2.png?raw=true)
 ### Second Year
 ![Second year timetable](TimeTable/secondYear.jpeg?raw=true)
+## Complete timetable 2024/2025
+### Second Year
+![Second year timetable-1 24/25](TimeTable/2-2.png?raw=true)
+![Second year timetable-2 24/25](TimeTable/2-3.png?raw=true)
 ## Courses links
 ## Courses Teams code 
 ### 2023/2024
