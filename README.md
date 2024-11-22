@@ -230,6 +230,8 @@ only one folder inside the repo.
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/annikadl"><img src="https://avatars.githubusercontent.com/u/83355514?v=4?s=100" width="100px;" alt="annika"/><br /><sub><b>annika</b></sub></a><br /><a href="#content-annikadl" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/meskoj"><img src="https://avatars.githubusercontent.com/u/145445406?v=4?s=100" width="100px;" alt="Marco Meschini"/><br /><sub><b>Marco Meschini</b></sub></a><br /><a href="#content-meskoj" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RominaZe"><img src="https://avatars.githubusercontent.com/u/146995126?v=4?s=100" width="100px;" alt="Romina Contreras Zerega"/><br /><sub><b>Romina Contreras Zerega</b></sub></a><br /><a href="#content-RominaZe" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NicolasBravi01"><img src="https://avatars.githubusercontent.com/u/94124393?v=4?s=100" width="100px;" alt="NicolasBravi01"/><br /><sub><b>NicolasBravi01</b></sub></a><br /><a href="#content-NicolasBravi01" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EnricoPiacenza"><img src="https://avatars.githubusercontent.com/u/104034311?v=4?s=100" width="100px;" alt="EnricoPiacenza"/><br /><sub><b>EnricoPiacenza</b></sub></a><br /><a href="#content-EnricoPiacenza" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
