@@ -1,0 +1,99 @@
+{
+  "projectName": "RoboticsEngineeringUnige",
+  "projectOwner": "Tonelllo",
+  "repoType": "github",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Tonelllo",
+      "name": "Davide Tonelli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79359121?v=4",
+      "profile": "https://github.com/Tonelllo",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "annikadl",
+      "name": "annika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83355514?v=4",
+      "profile": "https://github.com/annikadl",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "meskoj",
+      "name": "Marco Meschini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145445406?v=4",
+      "profile": "https://github.com/meskoj",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "RominaZe",
+      "name": "Romina Contreras Zerega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146995126?v=4",
+      "profile": "https://github.com/RominaZe",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "NicolasBravi01",
+      "name": "NicolasBravi01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94124393?v=4",
+      "profile": "https://github.com/NicolasBravi01",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "EnricoPiacenza",
+      "name": "EnricoPiacenza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104034311?v=4",
+      "profile": "https://github.com/EnricoPiacenza",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ambraierardi",
+      "name": "ambraierardi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145840123?v=4",
+      "profile": "https://github.com/ambraierardi",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "miajl",
+      "name": "miajl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48295666?v=4",
+      "profile": "https://github.com/miajl",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alessandrotrovatello",
+      "name": "Alessandro Trovatello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108572023?v=4",
+      "profile": "https://github.com/alessandrotrovatello",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "leleviola",
+      "name": "Samuele Viola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147347110?v=4",
+      "profile": "https://github.com/leleviola",
+      "contributions": [
+        "content"
+      ]
+    }
+  ]
+}
