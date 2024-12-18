@@ -232,6 +232,12 @@ only one folder inside the repo.
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RominaZe"><img src="https://avatars.githubusercontent.com/u/146995126?v=4?s=100" width="100px;" alt="Romina Contreras Zerega"/><br /><sub><b>Romina Contreras Zerega</b></sub></a><br /><a href="#content-RominaZe" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NicolasBravi01"><img src="https://avatars.githubusercontent.com/u/94124393?v=4?s=100" width="100px;" alt="NicolasBravi01"/><br /><sub><b>NicolasBravi01</b></sub></a><br /><a href="#content-NicolasBravi01" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/EnricoPiacenza"><img src="https://avatars.githubusercontent.com/u/104034311?v=4?s=100" width="100px;" alt="EnricoPiacenza"/><br /><sub><b>EnricoPiacenza</b></sub></a><br /><a href="#content-EnricoPiacenza" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ambraierardi"><img src="https://avatars.githubusercontent.com/u/145840123?v=4?s=100" width="100px;" alt="ambraierardi"/><br /><sub><b>ambraierardi</b></sub></a><br /><a href="#content-ambraierardi" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/miajl"><img src="https://avatars.githubusercontent.com/u/48295666?v=4?s=100" width="100px;" alt="miajl"/><br /><sub><b>miajl</b></sub></a><br /><a href="#content-miajl" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alessandrotrovatello"><img src="https://avatars.githubusercontent.com/u/108572023?v=4?s=100" width="100px;" alt="Alessandro Trovatello"/><br /><sub><b>Alessandro Trovatello</b></sub></a><br /><a href="#content-alessandrotrovatello" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/leleviola"><img src="https://avatars.githubusercontent.com/u/147347110?v=4?s=100" width="100px;" alt="Samuele Viola"/><br /><sub><b>Samuele Viola</b></sub></a><br /><a href="#content-leleviola" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
